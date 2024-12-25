@@ -1,7 +1,3 @@
-# Project Demo
-
-https://hack4tahsin.github.io/LandAge/
-
 # Description
 
 LandAge is an open-source React landing page template written in TypeScript, designed for developers and startups, who want to create a quick and professional landing page for their business or project.
