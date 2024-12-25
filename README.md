@@ -1,6 +1,6 @@
 # Project Demo
 
-https://hack4tahsin.github.io/landAge
+https://hack4tahsin.github.io/LandAge/
 
 # Description
 
